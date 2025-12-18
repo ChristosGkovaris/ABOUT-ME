@@ -44,7 +44,7 @@ Currently developing my Master Thesis in software engineering, working on **scal
 - Modern full-stack architecture *(technologies to be announced)*.
 - *Repository coming soon*
 
-### **2. Treegram App – A lightweight social media platform clone inspired by Instagram**  
+### **2. Treegram Web App – A lightweight social media platform clone inspired by Instagram**  
 - User accounts, photo uploads, tagging. 
 - Follow system with reverse-chronological feed.  
 - Photo titles, comments, comment deletion with permission checks.  
