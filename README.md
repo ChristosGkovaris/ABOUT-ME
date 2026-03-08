@@ -60,7 +60,7 @@ Currently developing my Master Thesis in software engineering, working on **scal
 
 ## EXPERIENCE
 
-- **Lab Assistant (6 months)** – Electronics laboratory support & student guidance.  
+- **Lab Assistant (12 months)** – Electronics laboratory support & student guidance.  
 - **IT Support & Python Teacher (Volunteer)** – Introductory programming teaching and basic troubleshooting.  
 - **Open to Internship Opportunities** — Looking to contribute to strong engineering teams across backend, full-stack & software development roles.
 
