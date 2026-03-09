@@ -8,7 +8,8 @@ Building clean, scalable software with a strong focus on backend engineering, sy
 ## ABOUT ME
 I am a Computer Science & Engineering student passionate about designing real-world software solutions. I enjoy working on full-stack web applications, optimizing backend systems, and crafting intuitive user experiences.
 
-Currently developing my Master Thesis in software engineering, working on **scalable backend architectures** and **modern web technologies**. Open to both junior and internship opportunities, with a strong focus on contributing effectively, growing professionally, and delivering high-quality software.
+Currently developing my Master Thesis in software engineering, working on **scalable backend architectures** and **modern web technologies**. Open to both junior and internship opportunities, with a
+strong focus on contributing effectively, growing professionally, and delivering high-quality software.
 
 ---
 
