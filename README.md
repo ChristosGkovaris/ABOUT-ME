@@ -1,5 +1,5 @@
 # Christos-Grigorios Gkovaris
-**CSE Undergraduate | Software Engineering | Full-Stack Web Development**
+**Final-year CSE Student | Software Engineering | Full-Stack Web Development**
 
 Building clean, scalable software with a strong focus on backend engineering, system design, and user-centered applications.
 
