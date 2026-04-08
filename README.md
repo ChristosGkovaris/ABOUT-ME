@@ -70,11 +70,4 @@ Currently developing my **Master's Thesis** focused on scalable backend architec
 
 ---
 
-## GITHUB STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristosGkovaris&show_icons=true&locale=en&layout=compact" alt="Christos Gkovaris's top languages" />
-</p>
-
----
-
 <p align="center"><i>“The only way to do great work is to love what you do.” — Steve Jobs</i></p>
