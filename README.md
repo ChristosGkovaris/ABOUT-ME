@@ -67,9 +67,12 @@ Currently developing my **Master's Thesis** focused on scalable backend architec
 
 ## EXPERIENCE & VOLUNTEERING
 
-- **Laboratory Assistant at Electronics (MYY404) | University of Ioannina** – Guiding 20+ students in circuit design and troubleshooting using OrCAD and PCB layout.
-- **Volunteer CSE Teacher (Python) | GNOSI Tutoring Center** – Delivered programming courses to 15-20 students, overseeing 5+ project completions.
-- **Volunteer IT Support Specialist (Troubleshooting) | GNOSI Tutoring Center** – Maintaining system performance and troubleshooting organizational infrastructure.
+- **Laboratory Assistant at Electronics (MYY404) at University of Ioannina**
+Guiding 20+ students in circuit design and troubleshooting using OrCAD and PCB layout.
+- **Volunteer CSE Teacher (Python) at GNOSI Tutoring Center**
+Delivered programming courses to 15-20 students, overseeing 5+ project completions.
+- **Volunteer IT Support Specialist (Troubleshooting) at GNOSI Tutoring Center**
+Maintaining system performance and troubleshooting organizational infrastructure.
 
 ---
 
