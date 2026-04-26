@@ -1,5 +1,5 @@
 # Christos-Grigorios Gkovaris
-**Final-year CSE Student | Software Engineering | Full-Stack Web Development | AI & Robotics**
+**Final-year Computer Science & Engineering Student | Full-Stack Developer | Python & Java (Spring Boot) | Robotics & AI Enthusiast**
 
 Building clean, scalable software with a strong foundation in backend engineering, system design, and intelligent robotic systems.
 
