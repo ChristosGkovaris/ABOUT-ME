@@ -1,34 +1,71 @@
 # Christos-Grigorios Gkovaris
-**Final-year Computer Science & Engineering Student | Full-Stack Developer | Python & Java (Spring Boot) | Robotics & AI Enthusiast**
+**Final-year CSE Student | Software Engineer | AI & Machine Learning | Robotics & Autonomous Systems | Python, Java (Spring Boot)**
 
-Building clean, scalable software with a strong foundation in backend engineering, system design, and intelligent robotic systems.
+Software Engineer building backend systems, scalable architectures, and AI-driven/robotic solutions.
 
 ---
 
 ## ABOUT ME
-I am a Computer Science & Engineering student at the **University of Ioannina**, passionate about translating complex technical concepts into efficient, real-world solutions. My expertise bridges the gap between traditional **Full-Stack Web Development** and advanced **Robotics & AI**.
+I build secure REST APIs and full-stack applications using Java (Spring Boot) and Python, with hands-on experience in designing systems that handle real-world constraints such as performance, data consistency, and scalability.
 
-Currently developing my **Master's Thesis** focused on scalable backend architectures and intent-based search ranking. Whether I'm architecting secure REST APIs with **Spring Boot**, building **Neural Networks** from scratch, or developing **ROS-based** robotic simulations, I thrive on solving intricate engineering challenges.
+My work extends into machine learning, where I’ve implemented neural networks, recommender systems, and NLP pipelines from scratch, applying them to data-driven problems.
+
+Currently developing a thesis on intent-based search ranking, combining backend system design with machine learning to improve relevance and scalability in search systems.
+
+Interested in building high-performance systems at the intersection of backend engineering, AI, and autonomous/robotic applications.
 
 ---
 
 ## SKILLS
 
-### **Programming & Backend**
-- **Python:** pandas, NumPy, Scikit-learn, PyTorch (Data Preprocessing, MLP Classifiers)
-- **Java:** Spring Boot, REST APIs, Secure Authentication, MVC Architecture
-- **JavaScript:** ES6, jQuery, AJAX
-- **Ruby on Rails:** Social media platform architecture, HAML
+### **MACHINE LEARNING & DATA SCIENCE**
+- Neural Networks (MLP, Backpropagation, Gradient Descent)
+- Clustering (K-Means)
+- Recommender Systems (Collaborative Filtering, SVD)
+- Natural Language Processing (TF-IDF, Word2Vec, Text Classification)
+- Data Processing & Analysis (Pandas, NumPy)
 
-### **AI, Robotics & Simulation**
-- **Robotics:** ROS (Robot Operating System), Gazebo, RViz, Trajectory Planning (Cubic Polynomials)
-- **Machine Learning:** Supervised (MLP/Backpropagation) & Unsupervised (K-Means) learning implementation
-- **Hardware:** VHDL and Verilog (academic exposure), OrCAD, Circuit Design & Troubleshooting
+### **PROGRAMMING & SOFTWARE ENGINEERING**
+- Python (PyTorch, TensorFlow/Keras, Scikit-learn)
+- Java (Spring Boot, REST APIs, MVC)
+- C/C++ (Systems Programming)
+- SQL
 
-### **Tools & Infrastructure**
-- **Databases:** MySQL, SQLite, MariaDB
-- **Environment:** Ubuntu Linux, Zorin OS, VMWare Player 17/17 PRO, Git & GitHub
-- **IDEs:** VS Code, Eclipse IDE, Visual Studio 2022
+### **ALGORITHMS & FUNDAMENTALS**
+- A* Search, Minimax
+- Optimization Techniques
+- State-Space Modeling
+- Graph-Based Methods (PageRank-style similarity)
+
+### **BACKEND & WEB DEVELOPMENT**
+- Spring Boot (MVC, REST APIs, JPA/Hibernate)
+- Ruby on Rails (MVC, HAML, AJAX)
+- JavaScript (ES6, jQuery, AJAX)
+- Relational Databases (PostgreSQL, MySQL, MariaDB, SQLite)
+
+### **SYSTEMS, SECURITY & LOW-LEVEL**
+- Linux (System-level interaction & tooling)
+- Debugging & Analysis (GDB)
+- Network Analysis (Wireshark, Ettercap)
+- Network Security (ARP Poisoning, Man-in-the-Middle Attacks)
+- Exploit Development (Buffer Overflow, Shellcode Injection)
+
+### **ROBOTICS & SIMULATION**
+- ROS (Robot Operating System)
+- Gazebo, RViz
+- Motion Planning & Trajectory Generation (Cubic Polynomials, Parabolic Blends)
+
+### **HARDWARE & EMBEDDED SYSTEMS (ACADEMIC EXPOSURE)**
+- VHDL, Verilog
+- OrCAD (Schematic Design & PCB Layout)
+- Circuit Design & Troubleshooting
+
+### **TOOLS & DEVELOPMENT ENVIRONMENT**
+- Version Control: Git, GitHub
+- API Testing: Postman
+- Operating Systems: Ubuntu Linux, Zorin OS, Debian Linux, Microsoft Windows
+- Virtualization: VMware Player 17 / 17 Pro
+- IDEs: VS Code, Eclipse, Visual Studio 2022
 
 ---
 
@@ -76,6 +113,11 @@ Currently developing my **Master's Thesis** focused on scalable backend architec
 ## CONNECT WITH ME
 - **Email**: [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)  
+
+---
+
+## MY PERSONAL WEBSITE
+- **Website**: [christosgkovaris.github.io/Personal-Portfolio-Project](https://christosgkovaris.github.io/Personal-Portfolio-Project/)
 
 ---
 
