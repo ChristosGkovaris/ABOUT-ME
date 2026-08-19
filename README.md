@@ -1,124 +1,148 @@
-# Christos-Grigorios Gkovaris
-**Final-year CSE Student | Software Engineer | AI & Machine Learning | Robotics & Autonomous Systems | Python, Java (Spring Boot)**
+# CHRISTOS-GRIGORIOS GKOVARIS
 
-Software Engineer building backend systems, scalable architectures, and AI-driven/robotic solutions.
+Final-year **MEng Computer Science and Engineering** candidate focused on **software engineering, backend systems, systems programming, and robotics**. Building applications with **Python, Flask, Java, Spring Boot, C/C++, and JavaScript**, with particular interest in backend systems, automation, and robotics software.
+
+---
+
+## TABLE OF CONTENTS
+
+1. [About Me](#about-me)
+2. [Core Skills](#core-skills)
+3. [Featured Projects](#featured-projects)
+4. [Experience](#experience)
+5. [Education](#education)
+6. [Languages](#languages)
+7. [Contact](#contact)
 
 ---
 
 ## ABOUT ME
-I build secure REST APIs and full-stack applications using Java (Spring Boot) and Python, with hands-on experience in designing systems that handle real-world constraints such as performance, data consistency, and scalability.
 
-My work extends into machine learning, where I’ve implemented neural networks, recommender systems, and NLP pipelines from scratch, applying them to data-driven problems.
+I am a final-year MEng Computer Science and Engineering candidate at the **University of Ioannina**, with hands-on experience in backend development, systems software, robotics simulations, and algorithm-driven applications.
 
-Currently developing a thesis on intent-based search ranking, combining backend system design with machine learning to improve relevance and scalability in search systems.
+My current work includes **EventHorizon**, a Flask-based observability platform for querying and filtering application logs, alongside an MEng thesis focused on intent-based search ranking and user decision-support software.
 
-Interested in building high-performance systems at the intersection of backend engineering, AI, and autonomous/robotic applications.
+Across academic and independent projects, I have worked with backend architectures, REST APIs, relational databases, multithreading, robotics simulation, machine learning algorithms, and full-stack application development.
 
----
-
-## SKILLS
-
-### **MACHINE LEARNING & DATA SCIENCE**
-- Neural Networks (MLP, Backpropagation, Gradient Descent)
-- Clustering (K-Means)
-- Recommender Systems (Collaborative Filtering, SVD)
-- Natural Language Processing (TF-IDF, Word2Vec, Text Classification)
-- Data Processing & Analysis (Pandas, NumPy)
-
-### **PROGRAMMING & SOFTWARE ENGINEERING**
-- Python (PyTorch, TensorFlow/Keras, Scikit-learn)
-- Java (Spring Boot, REST APIs, MVC)
-- C/C++ (Systems Programming)
-- SQL
-
-### **ALGORITHMS & FUNDAMENTALS**
-- A* Search, Minimax
-- Optimization Techniques
-- State-Space Modeling
-- Graph-Based Methods (PageRank-style similarity)
-
-### **BACKEND & WEB DEVELOPMENT**
-- Spring Boot (MVC, REST APIs, JPA/Hibernate)
-- Ruby on Rails (MVC, HAML, AJAX)
-- JavaScript (ES6, jQuery, AJAX)
-- Relational Databases (PostgreSQL, MySQL, MariaDB, SQLite)
-
-### **SYSTEMS, SECURITY & LOW-LEVEL**
-- Linux (System-level interaction & tooling)
-- Debugging & Analysis (GDB)
-- Network Analysis (Wireshark, Ettercap)
-- Network Security (ARP Poisoning, Man-in-the-Middle Attacks)
-- Exploit Development (Buffer Overflow, Shellcode Injection)
-
-### **ROBOTICS & SIMULATION**
-- ROS (Robot Operating System)
-- Gazebo, RViz
-- Motion Planning & Trajectory Generation (Cubic Polynomials, Parabolic Blends)
-
-### **HARDWARE & EMBEDDED SYSTEMS (ACADEMIC EXPOSURE)**
-- VHDL, Verilog
-- OrCAD (Schematic Design & PCB Layout)
-- Circuit Design & Troubleshooting
-
-### **TOOLS & DEVELOPMENT ENVIRONMENT**
-- Version Control: Git, GitHub
-- API Testing: Postman
-- Operating Systems: Ubuntu Linux, Zorin OS, Debian Linux, Microsoft Windows
-- Virtualization: VMware Player 17 / 17 Pro
-- IDEs: VS Code, Eclipse, Visual Studio 2022
+I am particularly interested in software engineering opportunities involving **backend systems, automation, systems engineering, and robotics**.
 
 ---
 
-## PROJECTS
+## CORE SKILLS
 
-### **1. Smart Wishlist Prioritization Flow (Master's Thesis)** - Chrome Extension for Intent Based Search Ranking.
-- Implements multi-factor algorithms considering budget, trends, and real-time market changes.
-- *(COMING SOON ...)*
-
-### **2. Neural Classification and Unsupervised Learning** - Ground up implementation of supervised and unsupervised learning algorithms.
-- Engineered all underlying mathematical models for backpropagation and data analysis.
-- **Tech:** Java, Mathematical Modeling.
-- [🔗 GitHub Repository](https://github.com/ChristosGkovaris/Neural-Classification-and-Unsupervised-Learning)
-
-### **3. SpringBoot Traineeship Management Application** - Web application for managing traineeships and internships.
-- Optimized REST API endpoints for high-performance data retrieval.
-- **Tech:**  Java, Spring Boot, REST APIs, SQL.
-- [🔗 GitHub Repository](https://github.com/ChristosGkovaris/SpringBoot-Traineeship-Management-Application)
-
-### **4. MLP Classifier for MNIST Digit Recognition** - Python based neural network for handwritten number identification.
-- Engineered robust data preprocessing pipelines and optimized model hyperparameters for improved convergence.
-- **Tech:** Python, Scikit-Learn, Pandas, Matplotlib.
-- [🔗 GitHub Repository](https://github.com/ChristosGkovaris/MLP-Classifier-for-MNIST-Digit-Recognition)
-
-### **5. Treegram App Social Media Platform** - Lightweight Instagram-inspired web application.
-- Implemented secure authentication, a chronological follow system, and permission-based content management.
-- **Tech:** Ruby on Rails, HAML, SQLite3, JavaScript/jQuery, AJAX.
-- [🔗 GitHub Repository](https://github.com/ChristosGkovaris/Treegram-Web-Application)
-
-### **6. Jackal & RRbot Simulations** - Real time robotic simulation and trajectory generation.
-- Implemented trajectory generation that reduced simulated error by **15%**.
-- **Tech:** Python, ROS, Gazebo, RViz, Matplotlib, NumPy.
-- [🔗 GitHub Repository](https://github.com/ChristosGkovaris/Jackal-and-RRbot-Simulations)
+- **Programming Languages:** Python, Java, C, C++, JavaScript, SQL
+- **Backend & Databases:** Flask, Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL, MySQL
+- **Systems & Robotics:** Linux, Multithreading, Synchronization, ROS, Gazebo, RViz
+- **Algorithms & ML:** A* Search, Minimax, Neural Networks (MLP), K-Means, Recommender Systems
+- **Tools & Testing:** Git, GitHub, Postman, JUnit, Mockito
 
 ---
 
-## EXPERIENCE & VOLUNTEERING
+## FEATURED PROJECTS
 
-- **Laboratory Assistant at Electronics (MYY404) at University of Ioannina** | Guiding 20+ students in circuit design and troubleshooting using OrCAD and PCB layout.
-- **Volunteer CSE Teacher (Python) at GNOSI Tutoring Center** | Delivered programming courses to 15-20 students, overseeing 5+ project completions.
-- **Volunteer IT Support Specialist (Troubleshooting) at GNOSI Tutoring Center** | Maintaining system performance and troubleshooting organizational infrastructure.
+### EventHorizon Observability Platform
 
----
+**Python, Flask, REST APIs, Git**  
+**Status:** In Development
 
-## CONNECT WITH ME
-- **Email**: [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)  
-
----
-
-## MY PERSONAL WEBSITE
-- **Website**: [christosgkovaris.github.io/Personal-Portfolio-Project](https://christosgkovaris.github.io/Personal-Portfolio-Project/)
+- Developing a Flask-based observability platform for querying, filtering, and analyzing application logs.
+- Built modular REST endpoints using Flask Blueprints for health checks, log retrieval, and severity filtering.
+- Designed a modular project architecture separating backend, frontend, infrastructure, testing, documentation, and logging components.
 
 ---
 
-<p align="center"><i>“The only way to do great work is to love what you do.” — Steve Jobs</i></p>
+### Chrome Extension for Intent-Based Search Ranking and User Decision Support
+
+**JavaScript, HTML, CSS**  
+**Status:** In Progress
+
+- Developing a Chrome Extension for product-based purchase decision support.
+- Implemented product extraction, price parsing, category detection, and weighted scoring algorithms.
+- Built budget-aware purchase-plan generation and an interactive interface for product comparison.
+
+---
+
+### Traineeship Management Platform
+
+**Java, Spring Boot, Spring MVC, Spring Data JPA**
+
+- Developed a multi-role platform supporting students, companies, professors, and traineeship committee members.
+- Implemented student–position matching using **Jaccard similarity** and configurable allocation strategies.
+- Structured the application using MVC, service separation, persistence abstractions, and strategy-based allocation.
+
+[GitHub Repository](https://github.com/ChristosGkovaris/SpringBoot-Traineeship-Management-Application)
+
+---
+
+### Jackal and RRbot Simulations
+
+**Python, ROS, Gazebo, RViz**
+
+- Developed motion-planning and navigation functionality for simulated robotic systems.
+- Implemented trajectory generation using cubic polynomials and parabolic blends.
+- Built control nodes for autonomous navigation and coordinated robotic motion.
+
+[GitHub Repository](https://github.com/ChristosGkovaris/Jackal-and-RRbot-Simulations)
+
+---
+
+### Neural Classification and Unsupervised Learning
+
+**Java**
+
+- Implemented a 3-layer MLP using backpropagation and gradient descent.
+- Developed a K-Means clustering algorithm for pattern discovery in structured datasets.
+- Tuned learning-rate and network parameters to improve convergence behavior.
+
+[GitHub Repository](https://github.com/ChristosGkovaris/Neural-Classification-and-Unsupervised-Learning)
+
+---
+
+## EXPERIENCE
+
+### Laboratory Assistant — Electronics Laboratory, University of Ioannina (VCAS Lab)
+
+**02/2025 – 06/2025 & 02/2026 – 06/2026**
+
+- Mentored 50+ students in debugging and troubleshooting circuit implementations.
+- Provided guidance on schematic design and PCB layout using OrCAD.
+- Supported laboratory sessions using oscilloscopes, signal generators, power supplies, and circuit simulation tools.
+
+### Python Programming Instructor — GNOSI Tutoring Center
+
+- Delivered Python programming lessons through hands-on exercises.
+- Guided students through the development of 5+ Python applications.
+
+### IT Support Specialist — GNOSI Tutoring Center
+
+- Provided technical troubleshooting for hardware and software issues.
+- Maintained system reliability by diagnosing faults and minimizing operational disruptions.
+
+---
+
+## EDUCATION
+
+### MEng in Computer Science and Engineering
+
+**University of Ioannina**  
+Integrated 5-year programme · **300 ECTS · EQF Level 7**  
+Expected graduation: **September 2026**
+
+**MEng Thesis:**  
+*Chrome Extension for Intent-Based Search Ranking and User Decision Support*
+
+---
+
+## LANGUAGES
+
+- **Greek:** Native
+- **English:** ESB C2
+- **French:** DELF A2
+
+---
+
+## CONTACT
+
+**LinkedIn:** [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)  
+**Portfolio:** [christosgkovaris.github.io/Personal-Portfolio-Project](https://christosgkovaris.github.io/Personal-Portfolio-Project/)  
+**Email:** [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)
