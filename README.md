@@ -113,10 +113,14 @@ I am particularly interested in software engineering opportunities involving **b
 
 ### Python Programming Instructor — GNOSI Tutoring Center
 
+**07/2024 – 08/2024**
+
 - Delivered Python programming lessons through hands-on exercises.
 - Guided students through the development of 5+ Python applications.
 
 ### IT Support Specialist — GNOSI Tutoring Center
+
+**07/2023 – 08/2023**
 
 - Provided technical troubleshooting for hardware and software issues.
 - Maintained system reliability by diagnosing faults and minimizing operational disruptions.
