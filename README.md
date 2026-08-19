@@ -49,6 +49,9 @@ I am particularly interested in software engineering opportunities involving **b
 - Built modular REST endpoints using Flask Blueprints for health checks, log retrieval, and severity filtering.
 - Designed a modular project architecture separating backend, frontend, infrastructure, testing, documentation, and logging components.
 
+[GitHub Repository](https://github.com/ChristosGkovaris/EventHorizon)
+[Project Showcase](https://christosgkovaris.github.io/EventHorizon-Showcase/)
+
 ---
 
 ### Chrome Extension for Intent-Based Search Ranking and User Decision Support
